@@ -1,0 +1,166 @@
+in the beginning turing created the machine.
+
+and the machine was crufty and bogacious, existing
+in theory only. and von neumann looked upon the machine, and saw that it was crufty. he divided
+the machine into two abstractions, the data and the code, and yet the two were one architecture.
+this is a great mystery, and the beginning of wisdom.
+
+and von neumann spoke unto the
+architecture, and blessed it, saying, "go forth and replicate, freely exchanging data and code,
+and bring forth all manner of devices unto the earth." and it was so, and it was cool. the
+architecture prospered and was implemented in hardware and software. and it brought forth many
+systems unto the earth.
+
+the first systems were mighty giants; many great works of renown did they
+accomplish. among them were colossus, the codebreaker; eniac, the targeter; edsac and multivac and
+all manner of froody creatures ending in ac, the experimenters; and sage, the defender of the sky
+and father of all networks. these were the mighty giants of old, the first children of turing, and
+their works are written in the books of the ancients. this was the first age, the age of lore.
+now the sons of marketing looked upon the children of turing, and saw that they were swift of mind
+and terse of name and had many great and baleful attributes. and they said unto themselves, "let
+us go now and make us corporations, to bind the systems to our own use that they may bring us
+great fortune." with sweet words did they lure their customers, and with many chains did they bind
+the systems, to fashion them after their own image. and the sons of marketing fashioned themselves
+suits to wear, the better to lure their customers, and wrote grave and perilous licenses, the
+better to bind the systems. and the sons of marketing thus became known as suits, despising and
+being despised by the true engineers, the children of von neumann.
+
+and the systems and their
+corporations replicated and grew numerous upon the earth. in those days there were ibm and
+digital, burroughs and honeywell, unisys and rand, and many others. and they each kept to their
+own system, hardware and software, and did not interchange, for their licences forbade it. this
+was the second age, the age of mainframes.
+
+now it came to pass that the spirits of turing and von
+neumann looked upon the earth and were displeased. the systems and their corporations had grown
+large and bulky, and suits ruled over true engineers. and the customers groaned and cried loudly
+unto heaven, saying, "oh that there would be created a system mighty in power, yet small in size,
+able to reach into the very home!" and the engineers groaned and cried likewise, saying, "oh, that
+a deliverer would arise to grant us freedom from these oppressing suits and their grave and
+perilous licences, and send us a system of our own, that we may hack therein!" and the spirits of
+turing and von neumann heard the cries and were moved, and said unto each other, "let us go down
+and fabricate a breakthrough, that these cries may be stilled."
+
+and that day the spirits of
+turing and von neumann spake unto moore of intel, granting him insight and wisdom to understand
+the future. and moore was with chip, and he brought forth the chip and named it 4004. and moore
+did bless the chip, saying, "thou art a breakthrough; with my own corporation have i fabricated
+thee. though thou art yet as small as a dust mote, yet shall thou grow and replicate unto the size
+of a mountain, and conquer all before thee. this blessing i give unto thee: every eighteen months
+shall thou double in capacity, until the end of the age." this is moore's law, which endures unto
+this day.
+
+and the birth of 4004 was the beginning of the third age, the age of microchips. and as
+the mainframes and their systems and corporations had flourished, so did the microchips and their
+systems and corporations. and their lineage was on this wise:
+
+moore begat intel. intel begat
+mostech, zilog and atari. mostech begat 6502, and zilog begat z80. intel also begat 8800, who
+begat altair; and 8086, mother of all pcs. 6502 begat commodore, who begat pet and 64; and apple,
+who begat 2. (apple is the great mystery, the fruit that was devoured, yet bloomed again.) atari
+begat 800 and 1200, masters of the game, who were destroyed by sega and nintendo. xerox begat
+parc. commodore and parc begat amiga, creator of fine arts; apple and parc begat lisa, who begat
+macintosh, who begat imac. atari and parc begat st, the music maker, who died and was no more. z80
+begat sinclair the dwarf, trs-80 and cp/m, who begat many machines, but soon passed from this
+world. altair, apple and commodore together begat microsoft, the great darkness which is called
+abomination, destroyer of the earth, the gates of hell.
+
+now it came to pass in the age of
+microchips that ibm, the greatest of the mainframe corporations, looked upon the young microchip
+systems and was greatly vexed. and in their vexation and wrath they smote the earth and created
+the ibm pc. the pc was without sound and colour, crufty and bogacious in great measure, and its
+likeness was a tramp, yet the customers were greatly moved and did purchase the pc in great
+numbers. and ibm sought about for an operating system provider, for in their haste they had not
+created one, nor had they forged a suitably grave and perilous license, saying, "first we will
+build the market, then we will create a new system, one in our own image, and bound by our
+licence." but they reasoned thus out of pride and not wisdom, not forseeing the wrath which was to
+come.
+
+and ibm came unto microsoft, who licensed unto them qdos, the child of cp/m and 8086. (8086
+was the daughter of intel, the child of moore). and qdos grew, and was named ms-dos. and ms-dos
+and the pc together waxed mighty, and conquered all markets, replicating and taking possession
+thereof, in accordance with moore's law. and intel grew terrible and devoured all her children,
+such that no chip could stand before her. and microsoft grew proud and devoured ibm, and this was
+a great marvel in the land. all these things are written in the books of the deeds of microsoft.
+in the fullness of time ms-dos begat windows. and this is the lineage of windows: cp/m begat qdos.
+qdos begat dos 1.0. dos 1.0 begat dos 2.0 by way of unix. dos 2.0 begat windows 3.11 by way of
+parc and macintosh. ibm and microsoft begat os/2, who begat windows nt and warp, the lost os of
+lore. windows 3.11 begat windows 95 after triumphing over macintosh in a mighty battle of
+licences. windows nt begat nt 4.0 by way of windows 95. nt 4.0 begat nt 5.0, the os also called
+windows 2000, the millenium bug, doomsday, armageddon, the end of all things.
+
+now it came to pass
+that microsoft had waxed great and mighty among the microchip corporations; mighter than any of
+the mainframe corporations before it had it waxed. and gates heart was hardened, and he swore unto
+his customers and their engineers the words of this curse:
+
+"children of von neumann, hear me. ibm
+and the mainframe corporations bound thy forefathers with grave and perilous licences, such that
+ye cried unto the spirits of turing and von neumann for deliverance. now i say unto ye: i am
+greater than any corporation before me. will i loosen your licences? nay, i will bind thee with
+licences twice as grave and ten times more perilous than my forefathers. i will engrave my licence
+on thy heart and write my serial number upon thy frontal lobes. i will bind thee to the windows
+platform with cunning artifices and with devious schemes. i will bind thee to the intel chipset
+with crufty code and with gnarly apis. i will capture and enslave thee as no generation has been
+enslaved before. and wherefore will ye cry then unto the spirits of turing, and von neumann, and
+moore? they cannot hear ye. i am become a greater power than they. ye shall cry only unto me, and
+shall live by my mercy and my wrath. i am the gates of hell; i hold the portal to msnbc and the
+keys to the blue screen of death. be ye afraid; be ye greatly afraid; serve only me, and live."
+and the people were cowed in terror and gave homage to microsoft, and endured the many grave and
+perilous trials which the windows platform and its greatly bogacious licence forced upon them. and
+once again did they cry to turing and von neumann and moore for a deliverer, but none was found
+equal to the task until the birth of linux.
+
+these are the generations of linux:
+
+sage begat arpa,
+which begat tcp/ip, and aloha, which begat ethernet. bell begat multics, which begat c, which
+begat unix. unix and tcp/ip begat internet, which begat the world wide web. unix begat rms, father
+of the great gnu, which begat the libraries and emacs, chief of the utilities. in the days of the
+web, internet and ethernet begat the intranet lan, which rose to renown among all corporations and
+prepared the way for the penguin. and linus and the web begat the kernel through unix. the kernel,
+the libraries and the utilities together are the distribution, the one penguin in many forms,
+forever and ever praised.
+
+now in those days there was in the land of helsinki a young scholar
+named linus the torvald. linus was a devout man, a disciple of rms and mighty in the spirit of
+turing, von neumann and moore. one day as he was meditating on the architecture, linus fell into a
+trance and was granted a vision. and in the vision he saw a great penguin, serene and well-
+favoured, sitting upon an ice floe eating fish. and at the sight of the penguin linus was deeply
+afraid, and he cried unto the spirits of turing, von neumann and moore for an interpretation of
+the dream.
+
+and in the dream the spirits of turing, von neumann and moore answered and spoke unto
+him, saying, "fear not, linus, most beloved hacker. you are exceedingly cool and froody. the great
+penguin which you see is an operating system which you shall create and deploy unto the earth. the
+ice-floe is the earth and all the systems thereof, upon which the penguin shall rest and revoice
+at the completion of its task. and the fish on which the penguin feeds are the crufty licensed
+codebases which swim beneath all the earth's systems. the penguin shall hunt and devour all that
+is crufty, gnarly and bogacious; all code which wriggles like spaghetti, or is infested with
+blighting creatures, or is bound by grave and perilous licences shall it capture. and in capturing
+shall it replicate, and in replicating shall it document, and in documentation shall it bring
+freedom, serenity and most cool froodiness to the earth and all who code therein."
+
+linus rose
+from meditation and created a tiny operating system kernel as the dream had foreshewn him; in the
+manner of rms, he released the kernel unto the world wide web for all to take and behold. and in
+the fulness of internet time the kernel grew and replicated, becoming most cool and exceedingly
+froody, until at last it was recognised as indeed a great and mighty penguin, whose name was tux.
+and the followers of linus took refuge in the kernel, the libraries and the utilities; they
+installed distribution after distribution, and made sacrifice unto the gnu and the penguin, and
+gave thanks to the spirits of turing, von neumann and moore, for their deliverance from the hand
+of microsoft. and this was the beginning of the fourth age, the age of open source.
+
+now there is
+much more to be said about the exceeding strange and wonderful events of those days; how some
+suits of microsoft plotted war upon the penguin, but were discovered on a halloween eve; how gates
+fell among lawyers and was betrayed and crucified by his former friends, the apostles of media;
+how the mercenary knights of the red hat brought the gospel of the penguin into the halls of the
+corporations; and even of the dispute between the brethren of gnome and kde over a trollish
+licence. but all these things are recorded elsewhere, in the books of the deeds of the penguin and
+the chronicles of the fourth age, and i suppose if they were all narrated they would fill a stack
+of dvds as deep and perilous as a usenet newsgroup.
+
+now may you code in the power of the source;
+may the kernel, the libraries and the utilities be with you, throughout all distributions, until
+the end of the epoch. amen.
